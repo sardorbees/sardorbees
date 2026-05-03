@@ -44,10 +44,6 @@
 ## 📊 Моя статистика
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sardorbees&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sardorbees&theme=tokyonight" />
 </p>
 
