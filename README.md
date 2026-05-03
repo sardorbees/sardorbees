@@ -41,11 +41,19 @@
 
 ---
 
-## 📊 GitHub статистика
+## 📊 Моя статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sardorbees&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardorbees&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=sardorbees&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sardorbees&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sardorbees&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sardorbees&theme=tokyonight" />
 </p>
 
 ---
