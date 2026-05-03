@@ -44,6 +44,36 @@
 
 ---
 
+## 🤖 AI & Programming Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,bash,powershell,regex" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,vercel,netlify" />
+</p>
+
+---
+
+
+## 🤖 Telegram / API
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- 🤖 Aiogram (Telegram Bot API)
+- 🔗 REST API интеграции
+- 📡 Webhooks
+- 📬 Notifications system
+
+---  
+
 ## 🚀 Мои проекты
 
 - 🌐 **Portfolio Website**  
