@@ -44,33 +44,19 @@
 
 ---
 
-## 🤖 AI & Programming Tools
+## 🤖 AI Tools & LLM
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/OpenAI-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-Claude-FF6B6B?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,bash,powershell,regex" />
+  <img src="https://img.shields.io/badge/DeepSeek-AI-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/xAI-Grok-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-LLM%20APIs-purple?style=for-the-badge"/>
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=githubactions,vercel,netlify" />
-</p>
-
----
-
-
-## 🤖 Telegram / API
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- 🤖 Aiogram (Telegram Bot API)
-- 🔗 REST API интеграции
-- 📡 Webhooks
-- 📬 Notifications system
 
 ---  
 
