@@ -180,3 +180,15 @@
 - ☁️ SaaS архитектура
 - 🤖 Aiogram (Telegram Bot)
 - 📖 Swagger / DRF (Django REST Framework)
+
+---
+
+## 🧠 Использую AI в разработке
+
+- 🤖 ChatGPT (OpenAI) — код, архитектура, идеи
+- 🔎 Gemini — анализ и генерация
+- 🧠 Claude — логика и тексты
+- ⚡ DeepSeek — код и оптимизация
+- 🚀 Grok — быстрые ответы и помощь
+
+---
