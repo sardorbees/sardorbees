@@ -1,19 +1,32 @@
-# Hi 👋, I'm Rizayev Sardor
+<h1 align="center">Привет 👋, я Rizayev Sardor</h1>
 
-🚀 Frontend Developer from Uzbekistan  
-💻 I love building modern web apps with React  
+<h3 align="center">🚀 Frontend разработчик из Узбекистана</h3>
 
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+<p align="center">
+  💻 Создаю современные веб-приложения на React, Vue и Next.js
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Обо мне
+
+- 🚀 Работаю с: Vue, Nuxt.js, Next.js  
+- ⚡ Использую: SSR / SSG  
+- 🐍 Backend: Python + Django  
+- 🤖 Делаю Telegram ботов  
+- 🌐 Мой сайт: https://ali-company.vercel.app/  
+
+---
+
+## 🛠️ Технологии и инструменты
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,python,django,git,github,vscode" />
+</p>
+
+---
+
+## 📊 Статистика GitHub
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
@@ -21,20 +34,45 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Активность
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
 ---
 
-## 📫 Contact Me
+## 📫 Связаться со мной
 
-- Telegram: @ali_equity
-- Instagram: websardor
-- Web-Site: https://ali-company.vercel.app/
+<p align="left">
+  <a href="https://t.me/ali_equity">
+    <img src="https://img.shields.io/badge/Telegram-Написать-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/websardor">
+    <img src="https://img.shields.io/badge/Instagram-Профиль-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://ali-company.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Сайт-Портфолио-black?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## 🧑‍💻 Hire Me
 
-I code every day and improve my skills 💪
+<p align="left">
+  <a href="https://t.me/ali_equity">
+    <img src="https://img.shields.io/badge/Hire_Me-Работать_со_мной-success?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Немного обо мне
+
+💡 Пишу код каждый день и постоянно улучшаю свои навыки  
+🔥 Люблю чистый код и современный дизайн  
+
+---
+
+## 🐍 Анимация активности
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
