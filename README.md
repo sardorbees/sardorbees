@@ -22,8 +22,24 @@
 
 ## 🛠️ Технологии
 
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,python,django,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,sass,tailwind,figma" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,sqlite,redis" />
+</p>
+
+### ☁️ DevOps / Server
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github" />
+</p>
+
+### 📱 API / Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode" />
 </p>
 
 ---
