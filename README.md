@@ -148,6 +148,26 @@
 
 ---
 
+
+## 📚 Дополнительные навыки
+
+- 🧠 ООП (Object-Oriented Programming)
+- ⚙️ SOLID принципы
+- 🌐 REST API / HTTP / HTTPS
+- 📦 JSON / XML
+- 🔍 SEO оптимизация
+- 🌍 DNS / FTP
+- 🧩 SPA архитектура
+- 🧬 TypeScript
+- 🏗️ BEM методология
+- 🧭 Vuex / Pinia / Hooks
+- ☁️ SaaS архитектура
+- 🤖 Aiogram (Telegram Bot)
+- 📖 Swagger / DRF (Django REST Framework)
+
+
+---  
+
 ## 🐍 GitHub Snake
 
 ![snake gif](https://github.com/sardorbees/sardorbees/blob/output/github-contribution-grid-snake.svg)
