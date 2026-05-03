@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋, я Rizayev Sardor</h1>
 
 <h3 align="center">
-🚀 Frontend разработчик | Vue • Nuxt • Next • Django
+🚀 Frontend разработчик | Vue • Nuxt • React • Django
 </h3>
 
 <p align="center">
