@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rizayev
+# Hi 👋, I'm Rizayev Sardor
 
 🚀 Frontend Developer from Uzbekistan  
 💻 I love building modern web apps with React  
