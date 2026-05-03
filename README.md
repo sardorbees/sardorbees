@@ -12,7 +12,7 @@
 
 ## 🌐 Обо мне
 
-- 🚀 Работаю с: Vue, Nuxt.js, Next.js  
+- 🚀 Работаю с: Vue, Nuxt.js, Reactjs, Next.js  
 - ⚡ Использую: SSR / SSG  
 - 🐍 Backend: Python + Django  
 - 🤖 Разрабатываю Telegram ботов  
