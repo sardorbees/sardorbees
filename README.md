@@ -132,7 +132,7 @@
   <a href="https://instagram.com/websardor">
     <img src="https://img.shields.io/badge/Instagram-Профиль-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://ali-company.vercel.app/">
+  <a href="https://rizayev-sardor.netlify.app/">
     <img src="https://img.shields.io/badge/🌐_Сайт-Портфолио-black?style=for-the-badge"/>
   </a>
 </p>
