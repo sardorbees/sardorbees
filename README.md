@@ -113,14 +113,6 @@
 
 ---
 
-## 🔥 Активность
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sardorbees&theme=tokyonight" />
-</p>
-
----
-
   🔥 PRO Features:
   - Social Auth (Google, GitHub)
   - SMS через Eskiz / PlayMobile
