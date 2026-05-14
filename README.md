@@ -29,7 +29,7 @@
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,sqlite,redis" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,redis" />
 </p>
 
 ### ☁️ DevOps / Server
