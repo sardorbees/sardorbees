@@ -34,7 +34,7 @@
 
 ### ☁️ DevOps / Server
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,nginx,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,nginx,git,github,ahost" />
 </p>
 
 ### 📱 API / Tools
